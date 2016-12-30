@@ -1,0 +1,6 @@
+use_frameworks!
+target 'IPaUIButtonTool_Tests' do
+  pod 'IPaUIButtonTool', :path => '../'
+  
+  
+end
