@@ -1,0 +1,16 @@
+PODS:
+  - IPaUIButtonTool (0.1.0)
+
+DEPENDENCIES:
+  - IPaUIButtonTool (from `../`)
+
+EXTERNAL SOURCES:
+  IPaUIButtonTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IPaUIButtonTool: 74e5d341bcb6af87aa5246387f8ea380f89d8bcc
+
+PODFILE CHECKSUM: badaa70a1e16bbb10b42979c4df3222b1743170d
+
+COCOAPODS: 1.1.1
