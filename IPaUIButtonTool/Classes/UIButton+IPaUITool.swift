@@ -22,7 +22,7 @@ extension UIButton
         
         // raise the image and push it right so it appears centered
         //  above the text
-        let titleSize = titleText.size(attributes: [NSFontAttributeName: titleLabel.font])
+        let titleSize = titleText.size(withAttributes: [NSAttributedStringKey.font: titleLabel.font])
         x = titleSize.width * 0.5
         y = -(titleSize.height + space) * 0.5
         imageEdgeInsets = UIEdgeInsetsMake(
