@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'IPaUIButtonTool'
-  s.version          = '2.0'
+  s.version          = '1.2'
   s.summary          = 'convenience function for UIButon to reposition image and title'
 
 # This description is used to generate tags and improve search results.
